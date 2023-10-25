@@ -1,4 +1,4 @@
-# Rock paper scissors
+# Tic tac toe
 Tic tac toe game programmed with Java while following the Introduction to Java course from the Jetbrains Academy on Hyperskill.
 
 # Overview
